@@ -1,10 +1,4 @@
-# JAN2026-project
-Machine learning-based phishing detection system for the financial sector. Detects malicious emails, URLs, and websites in real time, optimized for low-resource environments with high accuracy.
-Here is a **clear and professional GitHub repository description** based on your document. It is written in simple English and suitable for the public:
-
----
-
-## 📌 Repository Description
+MACHINE LEARNING ALGORITHMS TO DETECT PHISHING IN THE FINANCE SECTOR
 
 This project focuses on developing a **machine learning-based phishing detection system** designed for the financial sector, especially in **resource-constrained environments like Uganda**.
 
@@ -24,13 +18,6 @@ This system uses **machine learning algorithms** to automatically detect phishin
 * Explainable AI (clear reasons why something is flagged as phishing)
 * User-friendly interface for both technical and non-technical users
 * API support for integration with existing systems
-
-### ⚙️ Technologies Used
-
-* Python (Scikit-learn, TensorFlow, NLP tools)
-* MySQL Database
-* Flask (API development)
-* JavaScript (Frontend interface)
 
 ### 🎯 Project Goal
 
